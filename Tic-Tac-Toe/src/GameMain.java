@@ -222,3 +222,9 @@ public class GameMain extends JPanel implements MouseListener{
 	}
 
 }
+
+// Test comments for BIT504 As2 Task C
+// These comments are to demonstrate committing a change to github
+// Further test comments for experiment_2 branch...
+// ...for further demonstration
+
